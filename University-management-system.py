@@ -165,10 +165,8 @@ while True:
                 print("*************************")
                 print("Teacher not added!")
                 print("*************************")
-
-                print("*************************")
-                print("Teacher added Sucessfully!")
-                print("*************************")
+                
+    
         else:
             print("************************")
             print("College Does not Exists !")
