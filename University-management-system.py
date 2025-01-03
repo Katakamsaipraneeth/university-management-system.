@@ -100,11 +100,13 @@ while True:
                 print('OTP verified')
                 clg.add_student(s)
                 print("*************************")
+                print("OTP verified successfully")
                 print("Student added Sucessfully!")
                 print("*************************")
             else:
                 print('OTP invalid')
                 print("*************************")
+                print("Worng OTP entered")
                 print("Student not added!")
                 print("*************************")
         else:
@@ -158,11 +160,13 @@ while True:
                 print('OTP verified')
                 clg.add_teacher(t)
                 print("*************************")
+                print("OTP verified successfully")
                 print("Teacher added Sucessfully!")
                 print("*************************")
             else:
                 print('OTP invalid')
                 print("*************************")
+                print("Worng OTP entered")
                 print("Teacher not added!")
                 print("*************************")
                 
